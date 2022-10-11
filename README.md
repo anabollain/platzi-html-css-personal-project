@@ -1,1 +1,1 @@
-# platzi-html-css-personal-project
+# Adalab web starter kit

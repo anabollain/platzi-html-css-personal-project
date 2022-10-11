@@ -1,0 +1,10 @@
+@mixin link{
+    text-decoration: none;
+    color: $colorFont;
+    font-size: rem(15);
+    padding: 10px;
+}
+
+@mixin nav{
+    list-style: none;
+}
